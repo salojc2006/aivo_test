@@ -1,24 +1,20 @@
 {
-    "name": "slim/slim-skeleton",
-    "description": "A Slim Framework skeleton application for rapid development",
+    "name": "salojc2006/aivo_test",
+    "description": "Test example for aivo.",
     "keywords": [
-        "microframework",
+		"spotify",
+		"php7",
+		"slim",
         "rest",
         "router",
         "psr7"
     ],
-    "homepage": "http://github.com/slimphp/Slim-Skeleton",
-    "license": "MIT",
+    "homepage": "https://github.com/salojc2006/aivo_test",    
     "authors": [
         {
-            "name": "Josh Lockhart",
-            "email": "info@joshlockhart.com",
-            "homepage": "http://www.joshlockhart.com/"
-        },
-        {
-            "name": "Pierre Berube",
-            "email": "pierre@lgse.com",
-            "homepage": "http://www.lgse.com/"
+            "name": "Salomon Cordova",
+            "email": "salojc2006@gmail.com",
+            "homepage": "https://github.com/salojc2006/"
         }
     ],
     "require": {
